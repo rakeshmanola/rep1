@@ -1,0 +1,12 @@
+flask
+requests
+pandas
+numpy
+pyspark
+apache-airflow
+boto3
+pyathena
+pyarrow
+matplotlib
+tableauserverclient
+tableauhyperapi
