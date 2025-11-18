@@ -1,5 +1,5 @@
 dataformCoreVersion: 3.0.38
 defaultProject: project6174
-defaultLocation: us-central1
-defaultDataset: dataset1
+defaultLocation: US
+defaultDataset: processed
 defaultAssertionDataset: dataform_assertions
