@@ -1,6 +1,5 @@
 config {
-    type: "table",
-    schema: "processed"
+    type: "table"
 }
 
 SELECT * FROM `project6174.raw.table1`
